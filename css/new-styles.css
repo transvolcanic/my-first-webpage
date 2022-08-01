@@ -1,7 +1,12 @@
 h1 {
-  color:rgb(2, 43, 2);
+  color:rgba(6, 68, 6, 0.829);
   font-weight: 450;
   font-size: 75px;
-  text-align:center
+  text-align:center;
+  font-family: sans-serif
 }
 
+h2 {
+  font-style:italic;
+  font-family: sans-serif
+}
