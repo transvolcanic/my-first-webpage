@@ -20,6 +20,10 @@ A project of 3 pages; My First Webpage, My Favorite Things and My Favorite Place
 ## Known Bugs
 * Pages are not currently inter-linked
 ***
+## License
+*MIT*  
+
+Copyright (c) 2022 Michael Clarke
 
 
 
