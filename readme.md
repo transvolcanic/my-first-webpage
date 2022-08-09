@@ -15,7 +15,11 @@ A project of 3 pages; My First Webpage, My Favorite Things and My Favorite Place
 ## Setup/Installation
 1. Clone this repository 
 2. Open index.html in your browser
-3. Alternately, the project can be accessed via opening _transvolcanic.github.io/index_ in your browser
+3. Alternately, the project can be accessed via opening _transvolcanic.github.io/index_ in your browser.  
+*** 
+## Known Bugs
+* Pages are not currently inter-linked
+***
 
 
 
